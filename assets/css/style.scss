@@ -2,3 +2,19 @@
 ---
 
 @import 'jekyll-theme-cayman';
+
+body {
+    font: #FFFFFF;
+    color: #002147;
+}
+
+header {   
+    background: #002147; 
+    h1 {
+        color: #FFFFFF;
+    }
+}
+
+#banner { 
+    background: #002147;
+}
